@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-hand-drawn-natural-green-landscape-panels-background-picture-image_929237.jpg);
+    background-size: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+
+.img-border {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+h1 {
+    text-align : center;
+    color: #333;
+    }
+
+section {
+    margin-bottom: 10px;
+    }
+
+h2 {
+    text-align : center;
+    color: #555;
+    }
+
+p {
+    text-align : center;
+    color: #777;
+    }
